@@ -80,8 +80,5 @@ Select option 22 to install dependencies.
 ## License
 
 ReconMaster is released under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Credits
-
-developed by M45K3R. 
+<br><br>
 A big thank you to the creators and maintainers of the tools used in this project.
