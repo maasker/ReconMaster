@@ -1,5 +1,3 @@
-# ReconMaster
-
        _____                      __  __           _            
       |  __ \                    |  \/  |         | |           
       | |__) |___  ___ ___  _ __ | \  / | __ _ ___| |_ ___ _ __ 
@@ -7,6 +5,8 @@
       | | \ \  __/ (_| (_) | | | | |  | | (_| \__ \ ||  __/ |   
       |_|  \_\___|\___\___/|_| |_|_|  |_|\__,_|___/\__\___|_|                                     
                                           Developed by M45K3R
+
+# ReconMaster
 
 ReconMaster is an all-in-one bug bounty recon tool developed by M45K3R. It automates the process of reconnaissance and vulnerability scanning, helping ethical hackers and bug bounty hunters save time while hunting for vulnerabilities.
 
