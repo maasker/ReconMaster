@@ -83,4 +83,5 @@ ReconMaster is released under the MIT License. See the [LICENSE](LICENSE) file f
 
 ## Credits
 
-ReconMaster is developed by M45K3R. A big thank you to the creators and maintainers of the tools used in this project.
+developed by M45K3R. 
+A big thank you to the creators and maintainers of the tools used in this project.
