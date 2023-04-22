@@ -37,7 +37,10 @@ and so on...
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/maasker/ReconMaster.git
+
+```bash
+$ git clone https://github.com/maasker/ReconMaster.git
+```
 
 2. Navigate to the project directory:
 cd ReconMaster
