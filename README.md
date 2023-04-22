@@ -43,14 +43,19 @@ $ git clone https://github.com/maasker/ReconMaster.git
 ```
 
 2. Navigate to the project directory:
-cd ReconMaster
+```bash
+$ cd ReconMaster
+```
 
 3. Grant execute permissions to the script:
-chmod +x ReconMaster.sh
+```bash
+$ chmod +x ReconMaster.sh
+```
 
 4. Run the script to install the necessary dependencies:
-./ReconMaster.sh
-
+```bash
+$ ./ReconMaster.sh
+```
 
 Select option 22 to install dependencies.
 
